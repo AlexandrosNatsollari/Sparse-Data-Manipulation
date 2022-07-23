@@ -1,5 +1,5 @@
 function [val,row_ip,col_ip]= sp_mat2latex(A,sp_type)
-% Author : ALEXANDROS NATSOLLARI , AM:1057769 , Date : 17/11/2021
+% Author : ALEXANDROS NATSOLLARI
 
 
     %open file to write the results,it can be whatever type.In this case
