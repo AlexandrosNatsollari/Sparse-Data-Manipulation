@@ -1,5 +1,5 @@
 function [y]= spmv_bccs(y,x,nb,val,brow_idx,bcol_ptr)
-% Author : ALEXANDROS NATSOLLARI , AM:1057769 , Date : 10/12/2021
+% Author : ALEXANDROS NATSOLLARI
 
 
 %check if y,x have the right dimensions in odrer the function to run
